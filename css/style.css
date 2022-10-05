@@ -10,3 +10,30 @@ img {
 table td{
     border: 1px solid black;
 }
+td{
+    text-align: center;
+}
+.dias{
+    background-color: red;
+}
+.hora{
+    background-color: blue;
+} 
+.Serveis{
+    background-color: chartreuse;
+}
+.Seguretat{
+    background-color: darkgoldenrod;
+}
+.Sistemes{
+    background-color: tomato;
+}
+.Aplicacions{
+    background-color: yellow;
+}
+.EIE{
+    background-color: darkcyan;
+}
+.Web{
+    background-color: darkorchid;
+}
